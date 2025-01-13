@@ -2,7 +2,7 @@
 
 View my YouTube channel here: https://www.youtube.com/@MrJamzOG/featured
 
-Join the Discord if you need help or want to share your mod with others: discord.gg/fEWds5urjh
+Join the Discord if you need help or want to share your mod with others: https://www.discord.gg/fEWds5urjh
 
 Download Opera GX here: https://www.opera.com/gx?edition=std-2
 
