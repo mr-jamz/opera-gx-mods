@@ -1,5 +1,9 @@
 # opera-gx-mods
 
+View my YouTube channel here: https://www.youtube.com/@MrJamzOG/featured
+
+Join the Discord if you need help or want to share your mod with others: discord.gg/fEWds5urjh
+
 Download Opera GX here: https://www.opera.com/gx?edition=std-2
 
 Download Notepad++ here: https://notepad-plus-plus.org/downloads/
