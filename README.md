@@ -1,6 +1,6 @@
 # opera-gx-mods
-1. the zip file with comments is to use for reference, it gives some extra info to understand your options while coding your mod
-2. the zip with no comments is for you to edit directly to add your own content
+1. the zip file with comments is meant as an informational reference, it gives some extra info to understand your options while coding your mod
+2. the zip with no comments is meant for you to edit directly to add your own content
 
 - View my YouTube channel here: https://www.youtube.com/@MrJamzOG/featured
 - Join the Discord if you need help or want to share your mod with others: https://www.discord.gg/fEWds5urjh
