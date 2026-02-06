@@ -1,5 +1,5 @@
 # opera-gx-mods
-FILL NEW HERE
+If you are following an older tutorial video you want to download the template from the 2023 modding folder. The new template video is being worked on and does not have full support yet.
 
 
 - View my YouTube channel here: https://www.youtube.com/@MrJamzOG/featured
